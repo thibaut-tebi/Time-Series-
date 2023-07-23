@@ -6,6 +6,6 @@ Welcome to the Sales Forecasting Project! This repository contains the code, dat
 ### PROJECT SUMMARY
 | Project Name        | Description                                                                                             | Technologies Used                                    | Published Article                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------|
-| Sales Forecasting   | Predicting future sales at Corporation Favorita using time series analysis and machine learning models. | Python, scikit-learn, pandas, NumPy, Matplotlib, Jupyter Notebook | [Link to Published Article](https://your_published_article_link) |
+| Sales Forecasting   | Predicting future sales at Corporation Favorita using time series analysis and machine learning models. | Python, scikit-learn, pandas, NumPy, Matplotlib, Jupyter Notebook | [Link to Published Article](https://mavenanalytics.io/project/7588) |
 
 
