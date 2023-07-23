@@ -1,5 +1,5 @@
-### INTRODUCTION
-Welcome to an exciting journey into the world of sales forecasting! In this project, we're diving into the fascinating realm of time series analysis to understand and predict the sales of Corporation Favorita, a big supermarket retailer in Ecuador.
-Our goal is to create a special model that can accurately tell us how much the store will sell in the future. We'll use loads of data from the thousands of products they sell at different Favorita locations. With this valuable information, the store's management can plan its inventory and sales strategies wisely.
-Imagine having the power to predict what Favorita will sell in the coming days, weeks, or months! We'll use the data from the past four years to make these predictions. By doing so, we can help the managers at Favorita Corporation make smart decisions for the future based on their sales history.
-To achieve this, we'll carefully study past sales data and come up with some educated guesses. Using these guesses, we'll build special models that can help us understand and plan for what's to come. It's like using history to predict the future! By the end of this adventure, we hope to give Favorita Corporation some valuable insights that will improve its operations and, ultimately, boost its sales. So, let's dive in and explore the fascinating world of sales forecasting together!
+## Sales Forecasting Project
+
+#### Overview
+Welcome to the Sales Forecasting Project! This repository contains the code, data, and documentation for predicting sales at Corporation Favorita, a leading supermarket retailer in Ecuador. The goal of this project is to develop a robust sales forecasting model using time series analysis and machine learning techniques.
+
