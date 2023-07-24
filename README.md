@@ -1,3 +1,6 @@
+#### Name: Thibaut Kwadzo Tebi
+#### Email : thibaut.tebi@azubiafrica.org
+
 ## Sales Forecasting Project
 
 #### Overview
@@ -13,8 +16,9 @@ Sales forecasting is a crucial aspect of retail business operations. By accurate
 
 #### METHODOLOGY:
 
-We'll use CRISP-DM, an industry-proven approach, for data mining:
-![image](https://github.com/thibaut-tebi/Time-Series-Sales-Forecasting/assets/113062383/56b7d8bd-fb96-4934-9e58-19a9802a08cb)
+We'll use CRISP-DM, an industry-proven approach, for this project:
+![image](https://github.com/thibaut-tebi/Time-Series-Sales-Forecasting/assets/113062383/d2c5d482-a522-4105-b1fb-489ad20d1207)
+
 
 #### Data
 The project's data is stored in the data directory and consists of several CSV files, including train.csv, test.csv, transaction.csv, stores.csv, oil.csv, and holidays_events.csv. These files contain information on sales, store locations, oil prices, holidays, and more.
