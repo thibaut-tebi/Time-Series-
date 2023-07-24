@@ -47,6 +47,9 @@ Model Training: Run the model training script using python train_model.py. This 
 Evaluation: Evaluate the models using different metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Root Mean Squared Logarithmic Error (RMSLE)
 
 ### Modeling and Evaluation
+
+![image](https://github.com/thibaut-tebi/Time-Series-Sales-Forecasting/assets/113062383/f92bad45-98c3-4ca4-bd0f-c22b56abfcc3)
+
 The modeling phase involved training various models on the preprocessed data. We evaluated each model's performance using metrics like RMSLE to identify the most accurate model for sales forecasting. The Linear Regression model stood out with the lowest RMSLE value, demonstrating its robustness in predicting future sales trends.
 
 ### Results and Recommendation
