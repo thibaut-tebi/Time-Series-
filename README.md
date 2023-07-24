@@ -49,7 +49,7 @@ Evaluation: Evaluate the models using different metrics such as Mean Squared Err
 ### Modeling and Evaluation
 The modeling phase involved training various models on the preprocessed data. We evaluated each model's performance using metrics like RMSLE to identify the most accurate model for sales forecasting. The Linear Regression model stood out with the lowest RMSLE value, demonstrating its robustness in predicting future sales trends.
 
-### Results
+### Results and Recommendation
 The Sales Forecasting model based on Linear Regression offers accurate predictions, enabling Corporation Favorita to make data-driven decisions for inventory management, promotions, and overall business strategies.
 
 
