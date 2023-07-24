@@ -23,6 +23,7 @@ We'll use CRISP-DM, an industry-proven approach, for this project:
 #### Data
 The project's data is stored in the data directory and consists of several CSV files, including train.csv, test.csv, transaction.csv, stores.csv, oil.csv, and holidays_events.csv. These files contain information on sales, store locations, oil prices, holidays, and more.
 
+
 ### ANSWER TO QUESTIONS USING DASHBOARD
 To provide comprehensive insights and address critical business questions, we have crafted a powerful dashboard which answered all the questions above. This  dashboard serves as the focal point of our project, consolidating data from various sources and offering an intuitive interface to explore the results of our business understanding phase. You can get access to the interactive Dashboard via https://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare
 ![image](https://github.com/thibaut-tebi/Time-Series-Sales-Forecasting/assets/113062383/87d95d91-3f59-4a5f-90f9-aa80f981d5f2)
