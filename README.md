@@ -55,4 +55,15 @@ The modeling phase involved training various models on the preprocessed data. We
 ### Results and Recommendation
 The Sales Forecasting model based on Linear Regression offers accurate predictions, enabling Corporation Favorita to make data-driven decisions for inventory management, promotions, and overall business strategies.
 
+#### RESOURCES
+1. https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee
+2. https://heartbeat.comet.ml/a-practical-guide-to-feature-engineering-in-python-8326e40747c8
+3. https://www.influxdata.com/time-series-forecasting-methods/
+4. https://neptune.ai/blog/select-model-for-time-series-prediction-task
+5. https://vitalflux.com/steps-for-evaluating-validating-time-series-models/
+6. https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics
+7. https://towardsdatascience.com/improve-linear-regression-for-time-series-forecasting-e36f3c3e3534
+8. https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?view=azureml-api-2
+   
+
 
