@@ -46,6 +46,10 @@ Model Training: Run the model training script using python train_model.py. This 
 
 Evaluation: Evaluate the models using different metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Root Mean Squared Logarithmic Error (RMSLE)
 
+
+https://github.com/user-attachments/assets/ccb53c1a-817c-4e7a-be25-442b11308956
+
+
 ### Modeling and Evaluation
 
 ![image](https://github.com/thibaut-tebi/Time-Series-Sales-Forecasting/assets/113062383/f92bad45-98c3-4ca4-bd0f-c22b56abfcc3)
@@ -57,6 +61,10 @@ The Sales Forecasting model based on Linear Regression offers accurate predictio
 
 ### Recommendation
 As we move forward, we highly recommend the implementation of the Linear Regression model for sales forecasting at Corporation Favorita. The model's consistent and accurate predictions will serve as a powerful tool to optimize inventory planning, strategize promotions, and make informed business decisions. Leveraging the data-driven approach offered by the Linear Regression model, Corporation Favorita can confidently navigate the ever-evolving retail landscape and embark on a path to sustainable growth and success
+
+
+
+
 
 #### RESOURCES
 1. https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee
