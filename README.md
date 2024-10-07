@@ -47,7 +47,9 @@ Model Training: Run the model training script using python train_model.py. This 
 Evaluation: Evaluate the models using different metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Root Mean Squared Logarithmic Error (RMSLE)
 
 
-https://github.com/user-attachments/assets/ccb53c1a-817c-4e7a-be25-442b11308956
+https://github.com/user-attachments/assets/d646b1e5-7ddc-460b-9fc1-ebe65ec81dc2
+
+
 
 
 ### Modeling and Evaluation
